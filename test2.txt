@@ -4,3 +4,4 @@ Adding a file to note down the bunch of works done:
 
 1. HTML and CSS Basics
 2. Javascript foundations
+3. Git and version control
