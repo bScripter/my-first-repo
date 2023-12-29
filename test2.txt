@@ -2,4 +2,5 @@ Adding a file to note down the bunch of works done:
 
 (Add one by one with number)
 
-
+1. HTML and CSS Basics
+2. Javascript foundations
